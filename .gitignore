@@ -1,0 +1,7 @@
+.DS_Store
+
+# Patient-level clinical datasets
+/data/*.csv
+
+# Generated reports and trained models
+/output/
